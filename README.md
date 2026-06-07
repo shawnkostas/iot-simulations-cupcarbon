@@ -15,3 +15,11 @@ Both projects are accompanied by presentation material and demonstration videos 
 (https://github.com/user-attachments/files/28683645/video.1-demo.pptx)  
   (https://github.com/user-attachments/files/28683665/video.2-demo.pptx)
 
+
+Thank you for taking the time to review these projects.
+
+If you found the simulations and presentations interesting and would like to explore the implementation in greater detail, please feel free to contact me. The public repository includes only the presentation material and demonstration videos. The complete project assets, including simulation scripts, markers, configuration files, source code, and geographic coordinate datasets used in the scenarios, are maintained in a private repository and are not publicly available.
+
+Access to the full project documentation and implementation details can be discussed upon request.
+
+Contact: [το email ή το LinkedIn σου εδώ]
